@@ -27,3 +27,5 @@ github:
 
 
 plugins: [jekyll-paginate]
+
+exclude: ["Gemfile.lock", "node_modules"]
