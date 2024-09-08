@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>New Zealand Oceanography Network</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-09-09T10:49:25+12:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Remy Zyngfogel</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Request for stuff</title>
+   <link href="http://localhost:4000/2024/09/05/request_for_reference/"/>
+   <updated>2024-09-05T00:00:00+12:00</updated>
+   <id>http://localhost:4000/2024/09/05/request_for_reference</id>
+   <content type="html">&lt;p&gt;On campus job openings will be posted Monday, November 30, 2015 for three days. 
+For those stopping by to ask if I would act as a verbal reference:&lt;/p&gt;
+
+&lt;p&gt;Thank you - and best wishes on your job search!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
