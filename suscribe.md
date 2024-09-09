@@ -12,7 +12,7 @@ weight : 98
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 
-<script src="{{ site.baseurl }}/_js/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}_js/jquery.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
