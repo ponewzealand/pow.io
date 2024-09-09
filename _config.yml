@@ -11,7 +11,7 @@ title:            New Zealand Oceanography Network
 tagline:          'Welcome to the New Zealand Oceanographic Community Hub.'
 description:      'Your go-to platform for the latest news, research developments, upcoming conferences, and resources in the field of oceanography. Join our community and help shape the future of oceanography in Aotearoa.'
 url:              https://calypso-science.github.io/
-baseurl:          /ponz.github.io
+baseurl:          /ponz.github.io/
 
 author:
   name:           'Remy Zyngfogel'
