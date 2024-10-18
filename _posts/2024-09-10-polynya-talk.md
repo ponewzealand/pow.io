@@ -3,7 +3,7 @@ title: Sub-polynya scale processes and interannual variability in Terra Nova Bay
 author: liv
 date: 2024-09-10 14:10:00 +0000
 categories: [Polar]
-tags: [Antartica,Polynia]
+tags: [Antartica,Polynya]
 render_with_liquid: false
 comments: true
 
