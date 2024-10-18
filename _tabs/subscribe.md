@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Suscribe
+title: Subscribe
 icon: fa fa-users
 order: 3
 ---
