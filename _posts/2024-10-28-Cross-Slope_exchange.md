@@ -6,7 +6,8 @@ categories: [Polar]
 tags: [Antartica,Polynya]
 render_with_liquid: false
 comments: true
-
+image:
+  path: /commons/blog_img/wavelet_analysis.png
 ---
 
 
