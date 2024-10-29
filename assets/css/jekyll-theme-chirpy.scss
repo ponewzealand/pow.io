@@ -10,3 +10,10 @@
 /* append your custom style below */
 
 .content { text-align: justify; }
+.profile-wrapper { text-align: center; }
+
+#sidebar {
+  #avatar {
+    display: inline-flex;
+  }
+}
