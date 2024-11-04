@@ -1,7 +1,7 @@
 
 # Physical oceanography New Zealand
 
-Welcome to the **Physical oceanography New Zealand** website! This repository hosts resources and information dedicated to New Zealand’s oceanographic community. 
+Welcome to the **Physical oceanography New Zealand** website! This repository hosts resources and information dedicated to New Zealand’s oceanographic community. [Visit the Physical Oceanography New Zealand website](https://ponewzealand.github.io/pow.io/) 
 
 ## About
 
