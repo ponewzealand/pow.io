@@ -17,3 +17,10 @@
     display: inline-flex;
   }
 }
+
+.pow-now {
+  margin: 1.5rem 0 1.75rem;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--heading-color);
+  background: var(--card-bg);
+}
