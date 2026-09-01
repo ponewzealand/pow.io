@@ -9,13 +9,16 @@ order: 4
 
 Tēnā koutou,
 
-We are excited to announce that registration and the call for abstracts are now officially open for the New Zealand Physical Oceanography Workshop (POW) 2026!
+The 2026 Aotearoa New Zealand Physical Oceanography Workshop (**NZ-POW**) is on **today and tomorrow**, 2–3 September 2026, at [ESNZ Greta Point, Wellington](https://maps.app.goo.gl/ZsvGQZ7VTw9A76zP6).
 
-This year, we will gather to present, collaborate, and discuss under a timely umbrella: **The physics of the ocean in the age of multiple stressors**.
+Join online via [Microsoft Teams](https://teams.microsoft.com/meet/497152125432482?p=sSqVwibWGXMCVtnsLA).
 
-Please find more information on the <a href="https://www.eventbrite.com/e/physical-ocenography-workshop-2026-tickets-1990053617942">event page</a>.
+This year’s theme is **The physics of the ocean in the age of multiple stressors**.
 
-We look forward to seeing you there!
+- [Full programme and timetable]({{ '/posts/pow-2026/' | relative_url }})
+- [Download the programme (PDF)]({{ '/commons/POW2026.pdf' | relative_url }})
+
+Dinner is at 6 pm on Wednesday at The Botanist.
 
 ---
 
