@@ -11,6 +11,11 @@ lang: en
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Pacific/Auckland
 
+# Publish posts as soon as they are added. A date of midnight UTC is still
+# morning in New Zealand, and GitHub Pages will not rebuild when that clock
+# time arrives, so those posts would stay hidden until the next push.
+future: true
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
